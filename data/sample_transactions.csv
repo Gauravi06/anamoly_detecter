@@ -1,0 +1,11 @@
+transaction_id,user_id,amount,timestamp,location,merchant,category
+TXN001,USER123,250.50,2026-01-11 10:30:00,Mumbai,Coffee Shop,Food
+TXN002,USER123,15000.00,2026-01-11 10:35:00,Delhi,Electronics Store,Shopping
+TXN003,USER456,50.00,2026-01-11 11:00:00,Pune,Gas Station,Transport
+TXN004,USER123,8000.00,2026-01-11 11:05:00,Bangalore,Online Gambling,Entertainment
+TXN005,USER789,100.00,2026-01-11 12:00:00,Chennai,Restaurant,Food
+TXN006,USER123,0.50,2026-01-11 12:01:00,Kolkata,Online Payment,Transfer
+TXN007,USER123,0.75,2026-01-11 12:02:00,Hyderabad,Online Payment,Transfer
+TXN008,USER456,5000.00,2026-01-11 14:30:00,Pune,Supermarket,Shopping
+TXN009,USER123,25000.00,2026-01-11 15:00:00,Mumbai,Jewelry Store,Shopping
+TXN010,USER789,200.00,2026-01-11 16:00:00,Chennai,Cinema,Entertainment
